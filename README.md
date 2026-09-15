@@ -5,11 +5,11 @@
 
 ### 🇧🇷 
 
-Graduando em Sistemas de Informação (Univás) com atuação prática em operações de infraestrutura e desenvolvimento backend.
+Graduando em Sistemas de Informação com atuação prática em operações de infraestrutura e desenvolvimento backend.
 
 **Competências e Atuação**
 - **Suporte e Operações:** Atendimento N1/N2, gestão de TI no chão de fábrica e resolução de incidentes via ServiceNow.
-- **Administração de Sistemas:** Manutenção de ambientes Windows 11 e Linux (Zorin OS); automação de deploys e formatação utilizando scripts batch (.bat) e Ventoy.
+- **Administração de Sistemas:** Manutenção de ambientes Windows 11 e Linux; automação de deploys e formatação utilizando scripts.
 - **Desenvolvimento de Software:** Engenharia de aplicações e arquitetura backend com foco no ecossistema Java.
 
 **Stack Tecnológico**
@@ -21,11 +21,11 @@ Graduando em Sistemas de Informação (Univás) com atuação prática em opera�
 
 ### 🇺🇸 
 
-Information Systems undergraduate (Univás) focused on infrastructure operations and backend development.
+Information Systems undergraduate focused on infrastructure operations and backend development.
 
 **Core Competencies**
 - **IT Support & Operations:** Tier 1 and Tier 2 technical support, shop floor IT management, and incident resolution via ServiceNow.
-- **System Administration:** Maintenance of Windows 11 and Linux (Zorin OS) environments; automated deployments and provisioning using batch scripts (.bat) and Ventoy.
+- **System Administration:** Maintenance of Windows 11 and Linux environments; automated deployments and provisioning using scripts.
 - **Software Development:** Application engineering and backend architecture focusing on the Java ecosystem.
 
 **Technical Stack**
